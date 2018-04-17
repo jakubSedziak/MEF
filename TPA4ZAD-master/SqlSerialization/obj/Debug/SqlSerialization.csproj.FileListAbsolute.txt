@@ -1,0 +1,11 @@
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\obj\Debug\SqlSerialization.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\obj\Debug\SqlSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\bin\Debug\SqlSerialization.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\bin\Debug\SqlSerialization.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\bin\Debug\Interfejsy.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\bin\Debug\Interfejsy.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\obj\Debug\SqlSerialization.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\SqlSerialization\obj\Debug\SqlSerialization.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\SqlSerialization.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\SqlSerialization.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\SqlSerialization.dll.config

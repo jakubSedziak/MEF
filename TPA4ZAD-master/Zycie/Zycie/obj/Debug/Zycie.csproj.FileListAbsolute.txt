@@ -1,0 +1,109 @@
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\View\Okno.g.cs
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\App.g.cs
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.cache
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.lref
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\Zycie.exe.config
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\Zycie.exe
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\Zycie.pdb
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\EntityFramework.dll
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\log4net.dll
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\EntityFramework.xml
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\log4net.xml
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\View\Okno.baml
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.g.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.InitialCreate.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.AssemblyContext.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.ChangeProperty.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.TypeAddedFalse.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.spokoj.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedAtributes.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedMethods.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.Properties.Resources.resources
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.csproj.GenerateResource.Cache
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.csproj.CoreCompileInputs.cache
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.exe
+C:\Users\Tasik\Desktop\Gowno\JV\tags\Etap 3\Zycie\Zycie\obj\Debug\Zycie.pdb
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\Zycie.exe.config
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\Zycie.exe
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\Zycie.pdb
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\log4net.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.xml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\log4net.xml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\View\Okno.g.cs
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\App.g.cs
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.cache
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.lref
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\View\Okno.baml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.g.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.InitialCreate.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AssemblyContext.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.ChangeProperty.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.TypeAddedFalse.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.spokoj.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedAtributes.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedMethods.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.Properties.Resources.resources
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.csproj.GenerateResource.Cache
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.csproj.CoreCompileInputs.cache
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.exe
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.pdb
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie.csprojResolveAssemblyReference.cache
+C:\Users\Tasik\Desktop\GownoZad4\Zycie\Zycie\obj\Debug\Zycie_Content.g.cs
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Zycie.exe.config
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Zycie.exe
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Zycie.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\log4net.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.xml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\log4net.xml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.csprojResolveAssemblyReference.cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\View\Okno.g.cs
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\App.g.cs
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie_Content.g.cs
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie_MarkupCompile.lref
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\View\Okno.baml
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.g.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.InitialCreate.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AssemblyContext.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.ChangeProperty.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.TypeAddedFalse.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.spokoj.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedAtributes.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Migrations.AddedMethods.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.Properties.Resources.resources
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.csproj.GenerateResource.Cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.csproj.CoreCompileInputs.cache
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.exe
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\obj\Debug\Zycie.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Interfejsy.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Interfejsy.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Model.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Interfejsy.dll.config
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Model.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Model.dll.config
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Context.dll
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Context.pdb
+C:\Users\Vitalii Tsn\Desktop\gowno4\Zycie\Zycie\bin\Debug\Context.dll.config
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\Zycie.exe.config
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\Zycie.exe
+C:\Users\Vitalii Tsn\Desktop\gowno4\runtime\Zycie.pdb
